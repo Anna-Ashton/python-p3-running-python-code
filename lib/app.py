@@ -1,0 +1,5 @@
+# print("Hello world!", end=" ") 
+# print("I am learning python", end="!! ")
+# print("Imagine it's long since I coded!", end="\n")
+print("Hello World! Pass this test,", end=" ")
+print("please.", end="\n")
